@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/KOSEN-PROJECT/TEST01/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Hoe.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/showel.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/watercan.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/crop-test1.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Blueprint/watercan.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Blueprint/Hoe.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Blueprint/showel.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Blueprint/crop-test1.uasset",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Map/Boxing.umap",
+				"D:/KOSEN-PROJECT/TEST01/Content/Test_Farm/Map/VRTemplateMap1.umap"
+			]
+		}
+	]
+}
